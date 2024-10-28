@@ -18,7 +18,7 @@ public class ItemsInit {
     public static final List<RegistryObject<ShieldItem>> SHIELDS = new ArrayList<>();
 
     public static final RegistryObject<ShieldItem> WOODEN_SHIELD = registerShield("wooden_shield", 55);
-    public static final RegistryObject<ShieldItem> GOLDEN_SHIELD = registerShield("golden_shield", 32);
+    public static final RegistryObject<ShieldItem> GOLDEN_SHIELD = registerShield("golden_shield", 313);
     public static final RegistryObject<ShieldItem> IRON_SHIELD = registerShield("iron_shield", 165);
     public static final RegistryObject<ShieldItem> DIAMOND_SHIELD = registerShield("diamond_shield", 363);
     public static final RegistryObject<ShieldItem> NETHERITE_SHIELD = registerShield("netherite_shield", 607);
